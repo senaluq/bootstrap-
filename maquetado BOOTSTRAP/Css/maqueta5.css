@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#col1{
+    height: 100px;
+    background-color: #dc2f02;
+    border: 10px solid white;
+}
+#col2{
+    height: 100px;
+    background-color: #f48c06;
+    border: 10px solid white;
+}
+#nose{
+    height: 600px;
+    object-fit: cover;
+    border: 10px solid white;
+}
+#coper{
+    height: 600px;
+    object-fit: cover;
+    
+}
+
+.tablet{
+    height: 300px;
+    object-fit: cover;
+    border: 10px solid white;
+}
